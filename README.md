@@ -1,4 +1,0 @@
-bashutils
-=========
-
-bash utilities
