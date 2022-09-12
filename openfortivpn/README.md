@@ -27,6 +27,8 @@ Add the following entries to sudoers file with your username and host:
 $ sudo visudo 
 
 <username> <hostname> = (root) NOPASSWD: /usr/bin/openfortivpn
+
+
 <username> <hostname>  = (root) NOPASSWD: /usr/bin/kill
 
 And create a logfile:
