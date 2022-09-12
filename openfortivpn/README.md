@@ -1,4 +1,4 @@
-## vpn.sh
+## Openfortivpn client wrapper
 
 This is a Bash wrapper script to start and stop the Openfortivpn Linux client (https://github.com/adrienverge/openfortivpn). Tested on Rocky Linux 8.6 but should work for most distros. Requires sudo.
 
